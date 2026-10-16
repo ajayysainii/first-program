@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Ajay Saini
 **🎓 B.Tech in Data Science | 🚀 Aspiring Data & Business Analyst**
 
-I am currently honing my analytical skills at the AU Ignite Future Skills centre. I am passionate about transforming raw data into meaningful insights and building intelligent models.
+I am currently honing my analytical skills. I am passionate about transforming raw data into meaningful insights and building intelligent models.
 
 **🛠️️ Tools & Technologies I am exploring:**
 - 🐍 Python 
